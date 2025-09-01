@@ -7,7 +7,7 @@ It includes training, evaluation, visualization, and deployment using a **Gradio
 
 ## Project Overview
 - **Dataset**: [IMDB Reviews (50k reviews, balanced)](https://huggingface.co/datasets/imdb)  
-- **Model**: RoBERTa-base (pretrained by Facebook AI, fine-tuned for binary classification)  
+- **Model**: [Model](https://huggingface.co/N4F1U/roberta-imdb-finetuned/tree/main) 
 - **Frameworks**: Hugging Face `transformers`, `datasets`, `evaluate`  
 - **Goal**: Predict movie review sentiment with high accuracy.  
 
