@@ -11,6 +11,7 @@ Enter a review and the app returns probabilities for **negative** and **positive
 
 Model files are bundled in this Space under `roberta-imdb-finetuned/`.
 So in app.py you just need to change the lines:
-- tokenizer = AutoTokenizer.from_pretrained("N4F1U/roberta-imdb-finetuned")
-- model = AutoModelForSequenceClassification.from_pretrained("N4F1U/roberta-imdb-finetuned")
+- tokenizer = AutoTokenizer.from_pretrained("[N4F1U/roberta-imdb-finetuned](N4F1U/roberta-imdb-finetuned/tree/main/roberta-imdb-finetuned)")
+- model = AutoModelForSequenceClassification.from_pretrained("[N4F1U/roberta-imdb-finetuned](N4F1U/roberta-imdb-finetuned/tree/main/roberta-imdb-finetuned)")
+
 
