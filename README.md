@@ -38,8 +38,7 @@ python app.py
 ```
 
 ## Demo
-The model is deployed on Hugging Face Spaces: 
-https://huggingface.co/spaces/N4F1U/roberta-imdb-sentiment
+The model is deployed on Hugging Face Spaces: [roberta-imdb-sentiment](https://huggingface.co/spaces/N4F1U/roberta-imdb-sentiment)
 
 ## Demo Video
 https://youtu.be/eYTaQEQLrP4
