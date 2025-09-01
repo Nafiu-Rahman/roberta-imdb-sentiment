@@ -29,6 +29,7 @@ git clone https://github.com/Nafiu-Rahman/roberta-imdb-sentiment.git
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
+pip install protobuf
 ```
 
 ### 3. Launch Gradio Demo
