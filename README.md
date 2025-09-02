@@ -24,6 +24,7 @@ It includes training, evaluation, visualization, and deployment using a **Gradio
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/Nafiu-Rahman/roberta-imdb-sentiment.git
+cd roberta-imdb-sentiment
 ```
 
 ### 2. Install Dependencies
