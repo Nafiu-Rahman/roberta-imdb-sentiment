@@ -16,7 +16,7 @@ The model is deployed on Hugging Face Spaces: [roberta-imdb-sentiment](https://h
 ## Demo Video
 https://youtu.be/eYTaQEQLrP4
 
-**Final Performance (on test set):**
+## Final Performance (on test set):
 - Accuracy: **94%**
 - Precision: **0.94**
 - Recall: **0.94**
