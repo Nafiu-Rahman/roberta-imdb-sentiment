@@ -7,9 +7,14 @@ It includes training, evaluation, visualization, and deployment using a **Gradio
 
 ## Project Overview
 - **Dataset**: [IMDB Reviews (50k reviews, balanced)](https://huggingface.co/datasets/imdb)  
-- **Model**: [Model](https://huggingface.co/N4F1U/roberta-imdb-finetuned/tree/main) 
-- **Frameworks**: Hugging Face `transformers`, `datasets`, `evaluate`  
-- **Goal**: Predict movie review sentiment with high accuracy.  
+- **Model**: [Model](https://huggingface.co/N4F1U/roberta-imdb-finetuned/tree/main)  
+- **Goal**: Predict movie review sentiment with high accuracy.
+
+## Demo
+The model is deployed on Hugging Face Spaces: [roberta-imdb-sentiment](https://huggingface.co/spaces/N4F1U/roberta-imdb-sentiment)
+
+## Demo Video
+https://youtu.be/eYTaQEQLrP4
 
 **Final Performance (on test set):**
 - Accuracy: **94%**
@@ -38,8 +43,4 @@ pip install protobuf
 python app.py
 ```
 
-## Demo
-The model is deployed on Hugging Face Spaces: [roberta-imdb-sentiment](https://huggingface.co/spaces/N4F1U/roberta-imdb-sentiment)
 
-## Demo Video
-https://youtu.be/eYTaQEQLrP4
